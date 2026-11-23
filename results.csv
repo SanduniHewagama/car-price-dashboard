@@ -1,0 +1,8 @@
+Model,R2,MAE,RMSE,Time(s)
+Stacking,0.818,6.138,20.795,17.35
+XGBoost (Boosting),0.814,6.452,21.031,0.64
+CatBoost (Boosting),0.813,6.826,21.053,0.61
+LightGBM (Boosting),0.809,6.634,21.289,0.29
+Random Forest (Bagging),0.799,6.222,21.864,12.23
+Bagging,0.798,6.274,21.889,9.69
+AdaBoost (Boosting),0.752,12.059,24.286,2.79
